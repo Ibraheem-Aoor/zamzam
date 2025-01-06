@@ -19,4 +19,3 @@ docker-compose.override.yml
 copy.php
 change-list.txt
 .DS_Store
-/public/backEnd
