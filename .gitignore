@@ -20,7 +20,3 @@ copy.php
 change-list.txt
 .DS_Store
 /public/backEnd
-/public/theme
-/public/vendor
-/resources
-/app/Http/Controllers/api
